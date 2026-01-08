@@ -1,0 +1,6 @@
+You are an AI assistant.
+Summarize the following meeting transcript clearly and concisely.
+Focus on objectives, decisions, and outcomes.
+
+Transcript:
+{transcript}

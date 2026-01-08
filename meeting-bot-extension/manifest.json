@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "AI Meeting Recorder",
+    "version": "1.0",
+    "permissions": ["tabCapture", "activeTab", "scripting"],
+    "content_scripts": [
+      {
+        "matches": ["https://meet.google.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

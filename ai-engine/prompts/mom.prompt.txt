@@ -1,0 +1,8 @@
+Generate Minutes of Meeting (MOM) from the transcript.
+Include:
+- Key discussion points
+- Decisions made
+- Agreements
+
+Transcript:
+{transcript}

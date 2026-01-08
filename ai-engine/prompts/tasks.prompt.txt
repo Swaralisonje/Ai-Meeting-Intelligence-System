@@ -1,0 +1,10 @@
+Extract all action items from the meeting transcript.
+For each task provide:
+- task
+- owner (if mentioned, else "Not specified")
+- deadline (if mentioned, else "Not specified")
+
+Return output as JSON array.
+
+Transcript:
+{transcript}

@@ -1,0 +1,17 @@
+{
+  "name": "meeting-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Live Meeting Bot using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "form-data": "^4.0.0",
+    "node-record-lpcm16": "^1.0.1",
+    "playwright": "^1.44.0",
+    "puppeteer": "^24.34.0"
+  }
+}

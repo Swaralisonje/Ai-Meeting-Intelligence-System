@@ -1,0 +1,5 @@
+Extract all important dates and deadlines mentioned in the meeting.
+Return them as a JSON array of dates.
+
+Transcript:
+{transcript}
