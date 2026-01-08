@@ -26,28 +26,15 @@ This project is designed to improve productivity by eliminating manual note-taki
 
 **🛠️ Tech Stack**
 
-Backend
-
-Node.js
-
-Express.js
-
-AI / ML
-
-Speech-to-Text (STT)
-
-Natural Language Processing (NLP)
-
-Large Language Models (LLMs)
-
-Automation
-
-Browser automation (Puppeteer / Playwright)
-
-Other Tools
-
-JavaScript
-
+Category	Technology / Tools
+Backend	Node.js, Express.js
+Programming	JavaScript
+AI / NLP	Speech-to-Text (STT), NLP, Large Language Models (LLMs)
+Automation	Puppeteer / Playwright
+APIs	REST APIs
+Environment	Node Package Manager (npm)
+Data Handling	JSON
+Version Control	Git, GitHub
 REST APIs
 
 
@@ -93,4 +80,5 @@ Online lectures
 📊 Dashboard for meeting analytics
 
 🔐 Authentication & user profiles
+
 
