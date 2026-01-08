@@ -1,10 +1,11 @@
-🤖 AI Meeting Assistant
+**🤖 AI Meeting Assistant**
 
 An AI-powered Meeting Assistant that automatically joins online meetings, captures conversations, generates structured summaries, and extracts actionable insights.
 This project is designed to improve productivity by eliminating manual note-taking and helping teams focus on discussions.
 
 
-🚀 Features
+
+**🚀 Features**
 
 🔗 Automatically joins Google Meet meetings using a meeting link
 
@@ -22,7 +23,8 @@ This project is designed to improve productivity by eliminating manual note-taki
 
 
 
-🛠️ Tech Stack
+
+**🛠️ Tech Stack**
 
 Backend
 
@@ -49,7 +51,8 @@ JavaScript
 REST APIs
 
 
-🧪 How It Works
+
+**🧪 How It Works**
 
 User provides a meeting link
 
@@ -63,7 +66,8 @@ Summary, action items, and insights are generated
 
 
 
-🎯 Use Cases
+
+**🎯 Use Cases**
 
 Remote team meetings
 
@@ -77,7 +81,8 @@ Online lectures
 
 
 
-🔮 Future Enhancements
+
+**🔮 Future Enhancements**
 
 📅 Calendar integration (Google Calendar)
 
@@ -88,3 +93,4 @@ Online lectures
 📊 Dashboard for meeting analytics
 
 🔐 Authentication & user profiles
+
